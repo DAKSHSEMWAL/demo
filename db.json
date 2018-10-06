@@ -17,15 +17,7 @@
       "dob": "1997-02-01",
       "phone":"123456789",
       "password":"1234" 
-    }, 
-    { 
-      "id": "2",
-      "name": "ethan doe",
-      "email": "ethandoe@gmail.com",
-      "gender": "male",
-      "dob": "1997-02-01",
-      "phone": "123456798",
-      "password": "1357"
+    }
    }],
   "image": [
     { "url": "/" }
