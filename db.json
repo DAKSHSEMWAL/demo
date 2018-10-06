@@ -8,9 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "profile": [
+    {"id": "1",
+    "name": "jhon doe",
+    "email": "jhondoe@gmail.com",
+    "gender": "male",
+    "dob": "1997-02-01",
+    "phone":"123456789"}
+  ],
   "image": [
     { "url": "/" }
   ]
