@@ -14,7 +14,8 @@
     "email": "jhondoe@gmail.com",
     "gender": "male",
     "dob": "1997-02-01",
-    "phone":"123456789"}
+    "phone":"123456789",
+    "password":"1234"}
   ],
   "image": [
     { "url": "/" }
