@@ -9,15 +9,14 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "status": "ok",
-  "data": 
-  {
-    "name":"12345678",
-    "phone":"12345678",
-    "password":"12345678",
-    "email":"123456@ds.com",
-    "gender":"male",
-    "photo":"http://veritracksystems.com/uploads/customer/r/1538497403_photo.png",
-    "loyality_points":"23",
-    "dob":"2018-18-2"
+  "data": {
+    "name": "12345678",
+    "phone": "12345678",
+    "password": "12345678",
+    "email": "123456@ds.com",
+    "gender": "male",
+    "photo": "http://veritracksystems.com/uploads/customer/r/1538497403_photo.png",
+    "loyality_points": "23",
+    "dob": "2018-1-2"
   }
 }
