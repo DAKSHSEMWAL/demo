@@ -1,22 +1,27 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "data": {
-    "name": "12345678",
-    "phone": "12345678",
-    "password": "12345678",
-    "email": "123456@ds.com",
-    "gender": "male",
-    "photo": "http://veritracksystems.com/uploads/customer/r/1538497403_photo.png",
-    "loyality_points": "23",
-    "dob": "2018-1-2"
-  },
-  "user":{}
+  "fruits" : [
+    {
+      "id": 1,
+      "title" : "Apple",
+      "imgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+      "quantity" : 35
+    },
+    {
+      "id": 2,
+      "title" : "Banana",
+      "imgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg",
+      "quantity" : 12
+    },
+    {
+      "id": 3,
+      "title" : "Grapes",
+      "imgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "quantity" : 45
+    },
+    {
+      "id": 1,
+      "title" : "Pineapple",
+      "imgUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/286px-Pineapple_and_cross_section.jpg",
+      "quantity" : 200
+    }
 }
